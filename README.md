@@ -41,3 +41,5 @@ Please submit all pull requests to [develop](https://github.com/RocketMap/Rocket
 Building off [tejado's python pgoapi](https://github.com/tejado/pgoapi), [Mila432](https://github.com/Mila432/Pokemon_Go_API)'s API, [leegao's additions](https://github.com/leegao/pokemongo-api-demo/tree/simulation) and [Flask-GoogleMaps](https://github.com/rochacbruno/Flask-GoogleMaps). Current version relies primarily on the pgoapi and Google Maps JS API.
 
 Discord and front-end use [Iconset](http://www.flaticon.com/packs/packs/pokemon-go/) by [Roundicons Freebies](http://www.flaticon.com/authors/roundicons-freebies/) and [icon](http://www.flaticon.com/free-icon/rocket_178158) by [Flat Icons](http://flat-icons.com/) from [www.flaticon.com](http://www.flaticon.com/). License: CC 3.0 BY can be found [here](http://creativecommons.org/licenses/by/3.0/).
+
+<!-- GitAds-Verify: MDXZQMYNM48KMWITEN5X45JCE3HKA95G -->
