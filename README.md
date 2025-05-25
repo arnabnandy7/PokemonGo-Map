@@ -42,4 +42,7 @@ Building off [tejado's python pgoapi](https://github.com/tejado/pgoapi), [Mila43
 
 Discord and front-end use [Iconset](http://www.flaticon.com/packs/packs/pokemon-go/) by [Roundicons Freebies](http://www.flaticon.com/authors/roundicons-freebies/) and [icon](http://www.flaticon.com/free-icon/rocket_178158) by [Flat Icons](http://flat-icons.com/) from [www.flaticon.com](http://www.flaticon.com/). License: CC 3.0 BY can be found [here](http://creativecommons.org/licenses/by/3.0/).
 
-<!-- GitAds-Verify: MDXZQMYNM48KMWITEN5X45JCE3HKA95G -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/pokemongo-map@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/pokemongo-map@github)
+
+
